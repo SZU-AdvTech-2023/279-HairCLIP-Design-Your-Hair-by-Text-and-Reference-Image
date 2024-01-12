@@ -1,0 +1,6 @@
+@article{REPO279,
+    author = "Wei, Tianyi and Chen, Dongdong and Zhou, Wenbo and Liao, Jing and Tan, Zhentao and Yuan, Lu and Zhang, Weiming and Yu, Nenghai",
+    journal = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    title = "{Hairclip: Design your hair by text and reference image}",
+    year = "2022"
+}
